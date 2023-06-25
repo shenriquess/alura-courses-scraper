@@ -1,0 +1,193 @@
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\x86\sqlite3.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\x64\sqlite3.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\x86\e_sqlite3.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\x64\e_sqlite3.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\AngleSharp.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\EntityFramework.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\HtmlAgilityPack.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\SQLitePCL.raw.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\System.Buffers.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\System.Data.SQLite.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\System.Memory.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\System.Security.AccessControl.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\WebDriver.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\WebDriverManager.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\AngleSharp.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\EntityFramework.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\HtmlAgilityPack.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\System.Buffers.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\System.Data.SQLite.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\System.Memory.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\System.Security.AccessControl.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\obj\Debug\ProjetoPesquisaAlura.csproj.AssemblyReference.cache
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\obj\Debug\ProjetoPesquisaAlura.csproj.SuggestedBindingRedirects.cache
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\obj\Debug\ProjetoPesquisaAlura.csproj.CoreCompileInputs.cache
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\obj\Debug\ProjetoPesquisaAlura.csproj.CopyComplete
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\Desafio_AeC.exe.config
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\Desafio_AeC.exe
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\Desafio_AeC.pdb
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\obj\Debug\Desafio_AeC.exe
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\obj\Debug\Desafio_AeC.pdb
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\x86\sqlite3.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\x64\sqlite3.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\x86\e_sqlite3.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\x64\e_sqlite3.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\Desafio_AeC.exe.config
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\Desafio_AeC.exe
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\Desafio_AeC.pdb
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\AngleSharp.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\Dapper.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\EntityFramework.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\HtmlAgilityPack.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\SQLitePCL.raw.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\System.Buffers.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\System.Data.SQLite.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\System.Memory.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\System.Security.AccessControl.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\WebDriver.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\WebDriverManager.dll
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\AngleSharp.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\Dapper.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\EntityFramework.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\HtmlAgilityPack.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\System.Buffers.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\System.Data.SQLite.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\System.Memory.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\System.Security.AccessControl.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\obj\Debug\ProjetoPesquisaAlura.csproj.AssemblyReference.cache
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\obj\Debug\ProjetoPesquisaAlura.csproj.SuggestedBindingRedirects.cache
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\obj\Debug\ProjetoPesquisaAlura.csproj.CoreCompileInputs.cache
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\obj\Debug\ProjetoPesquisaAlura.csproj.CopyComplete
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\obj\Debug\Desafio_AeC.exe
+C:\Users\shenriquess\Desktop\Desafio_AeC_Automacao - Copia\obj\Debug\Desafio_AeC.pdb
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\x86\sqlite3.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\x64\sqlite3.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\x86\e_sqlite3.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\x64\e_sqlite3.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\Desafio_AeC.exe.config
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\Desafio_AeC.exe
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\Desafio_AeC.pdb
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\AngleSharp.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\Dapper.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\EntityFramework.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\HtmlAgilityPack.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\SQLitePCL.raw.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\System.Buffers.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\System.Data.SQLite.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\System.Memory.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\System.Security.AccessControl.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\WebDriver.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\WebDriverManager.dll
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\AngleSharp.xml
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\Dapper.xml
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\EntityFramework.xml
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\HtmlAgilityPack.xml
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\System.Buffers.xml
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\System.Data.SQLite.xml
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\System.Memory.xml
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\System.Security.AccessControl.xml
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\shenriquess\Desktop\CourseSearch\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\shenriquess\Desktop\CourseSearch\obj\Debug\ProjetoPesquisaAlura.csproj.AssemblyReference.cache
+C:\Users\shenriquess\Desktop\CourseSearch\obj\Debug\ProjetoPesquisaAlura.csproj.SuggestedBindingRedirects.cache
+C:\Users\shenriquess\Desktop\CourseSearch\obj\Debug\ProjetoPesquisaAlura.csproj.CoreCompileInputs.cache
+C:\Users\shenriquess\Desktop\CourseSearch\obj\Debug\ProjetoPesquisaAlura.csproj.CopyComplete
+C:\Users\shenriquess\Desktop\CourseSearch\obj\Debug\Desafio_AeC.exe
+C:\Users\shenriquess\Desktop\CourseSearch\obj\Debug\Desafio_AeC.pdb
