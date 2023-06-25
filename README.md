@@ -47,7 +47,7 @@ O projeto faz uso das seguintes bibliotecas e ferramentas:
 - **Dapper**: Uma biblioteca de mapeamento objeto-relacional (ORM) que simplifica o acesso e a manipulação do banco de dados. Utilizamos o Dapper para executar as consultas SQL e inserir os cursos no banco de dados.
 - **NuGet**: O gerenciador de pacotes NuGet é utilizado para gerenciar as dependências do projeto e garantir que todas as bibliotecas necessárias sejam instaladas corretamente.
 - **Visual Studio**: O Visual Studio é a IDE utilizada para desenvolver e executar o projeto. No entanto, você pode usar o ambiente de desenvolvimento de sua escolha.
-
+- **System.Data.SQLite**: Uma biblioteca que fornece acesso ao banco de dados SQLite. Utilizamos o System.Data.SQLite para trabalhar com o SQLite em nosso projeto.
 ## Como executar
 
 1. Clone o repositório: `git clone <URL_DO_REPOSITORIO>`
